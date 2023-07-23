@@ -1,0 +1,47 @@
+header {
+    background-color: #42614b;
+    color: white;
+    height: 212.17px;
+}
+
+.cabecalho{
+    padding: 0 20px;
+    background-color: #424E61;
+    color: rgb(43, 157, 41);
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.titulo1 {
+    font-family: 'Bungee Spice', cursive;
+    font-family: 'Caprasimo', cursive;
+    font-family: 'Oswald', sans-serif;
+    color:rgb(171, 234, 169);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 50px;
+}
+
+.titulo2 {
+    color:rgb(171, 234, 169);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.menu{
+    display: inline-block;
+    width: 100px;
+    text-align: center;
+}
+
+.logo-militar{
+    width: 250px;
+}
+
+.menu a{
+    text-decoration: none; 
+    color: rgb(171, 234, 169);
+}

@@ -1,0 +1,80 @@
+#escola{
+    width: 100%;
+    height: 400px;
+    background-image: linear-gradient(#424E61,#16CFF8);
+    color:rgb(255, 255, 255);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.escola-div-conteudo{
+    padding: 20px;
+    width: 900px;
+    height: 400px;
+}
+
+.escola-titulo {
+    font-size: 30px;
+    padding: 10px;
+    text-align: center;
+    justify-content: center;
+    font-family: 'Bungee Spice', cursive;
+    font-family: 'Oswald', sans-serif;
+}
+
+.escola-texto {
+    text-align: justify;
+    font-size: 24px;
+}
+
+.escola-imagem {
+    width: 400px;
+}
+
+#turma {
+    height: 400px;
+    color: black;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+
+.estudante-titulo {
+    font-size: 200%;
+    padding: 10px 10px;
+    width: 570px;
+    text-align: center;
+    justify-content: center;
+    font-family: 'Bungee Spice', cursive;
+    font-family: 'Oswald', sans-serif;
+}
+
+.turma-a {
+    width: 1400px;
+    text-align: center;
+    padding: 24px 0;
+    display: grid;
+    grid-template-columns: 20% 20% 20% 20% 20%;
+}
+
+.escola-div {
+        text-align: center;
+        padding: 16px 0;
+    }
+
+.estudante-imagem {
+    width: 100px;
+}
+
+.estudante-nome{
+    text-align: center;
+}
+
+.estudante-icone {
+    width: 30px;
+    justify-content: center;
+    align-items: center;
+    padding: 24px 0;
+}
